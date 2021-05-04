@@ -14,6 +14,6 @@
 
 ### 📉 Stats
 
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=Bintangp02&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bintangp02&layout=compact&theme=highcontrast)
+![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=NAFIS070809&show_icons=true&theme=highcontrast&show_owner=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NAFIS070809&layout=compact&theme=highcontrast)
 
