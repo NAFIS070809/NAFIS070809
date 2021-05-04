@@ -42,6 +42,7 @@ Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDu
 
 ### 🤝THANKS
 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 <!--START_SECTION:waka-->
 
