@@ -34,7 +34,8 @@
 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="50px">
 
 * [![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BQXKucyoKINAcXExel0EGh)
-* [`ANIME X BOT OFFICIAL`](https://chat.whatsapp.com/DGBBcpNdyQLFN0pB60zLAt) 
+* [![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DGBBcpNdyQLFN0pB60zLAt)
+
 
 ### 📍SUPPORT TERUS NAFIS070809
 
