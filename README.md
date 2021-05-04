@@ -21,5 +21,5 @@
 ### 💻 Bot Wa
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bintangp02&repo=Termux-Bot&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=Termux-Bot&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=REM7&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=SENSEIBOT-2&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
