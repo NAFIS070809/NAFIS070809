@@ -10,3 +10,10 @@
 <p align="center">
 <img src="https://i.ibb.co/3dsxdP8/IMG-20210312-WA1759.jpg" width="100%" alt="API Giphy logo"/>
 </p>
+
+
+### 📉 Stats
+
+![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=Bintangp02&show_icons=true&theme=highcontrast&show_owner=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bintangp02&layout=compact&theme=highcontrast)
+
