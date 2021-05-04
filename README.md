@@ -25,7 +25,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=SENSEIBOT-2&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
 
 
 <!--START_SECTION:waka-->
