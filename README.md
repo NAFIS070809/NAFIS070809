@@ -33,7 +33,7 @@
 
 ### 📍SUPPORT TERUS NAFIS070809
 
-SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px">
+SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="900px">
 
 Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
 
@@ -42,7 +42,7 @@ Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDu
 
 ### 🤝THANKS
 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="600px">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="900px">
 
 <!--START_SECTION:waka-->
 
