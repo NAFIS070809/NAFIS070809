@@ -24,6 +24,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=REM7&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=SENSEIBOT-2&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 
+
+### 📞 Connect With Me 
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283159296996)
+
+
 ### 📲 Join Group WHATSAPP
 
 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="50px">
