@@ -42,7 +42,8 @@ SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCo
 
 Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
 
-* [![FOLLOW GITHUB INI](https://img.shields.io/github/followers/NAFIS070809?style=social)
+* <a href="https://github.com/NAFIS070809"><img title="NAFIS070809" src="https://img.shields.io/badge/github-NAFIS070809-orange.svg?style=social&logo=github"></a>
+</p>
 
 
 ### 🤝THANKS
