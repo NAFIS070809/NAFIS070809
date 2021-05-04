@@ -31,8 +31,16 @@
 * [`BOT OFFICIAL`](https://chat.whatsapp.com/BQXKucyoKINAcXExel0EGh)
 * [`ANIME X BOT OFFICIAL`](https://chat.whatsapp.com/DGBBcpNdyQLFN0pB60zLAt) 
 
+### 📍SUPPORT TERUS NAFIS070809
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
+SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px">
+
+Jangan lupa Follow Github INI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
+
+* [`FOLLOW GITHUB INI`](https://github.com/NAFIS070809) 
+
+
+### 🤝THANKS
 
 
 <!--START_SECTION:waka-->
