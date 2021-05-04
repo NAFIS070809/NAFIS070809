@@ -24,10 +24,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=REM7&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=SENSEIBOT-2&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 
-### 📲 Join Group 
+### 📲 Join Group WHATSAPP
 
 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Point_Down.gif" width="50px">
 
+* [`BOT OFFICIAL`](https://chat.whatsapp.com/BQXKucyoKINAcXExel0EGh)
+* [`ANIME X BOT OFFICIAL`](https://chat.whatsapp.com/DGBBcpNdyQLFN0pB60zLAt) 
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
