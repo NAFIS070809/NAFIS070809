@@ -25,18 +25,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NAFIS070809&repo=SENSEIBOT-2&theme=highcontrast)](https://github.com/NAFIS070809/NAFIS070809)
 
 
-## 🏆 Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=NAFIS070809&row=2&column=3&layout=compact&theme=onedark)
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAFIS070809" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkiRaID&label=VIEWS&style=flat-square&color=orange" />
-</p>
-
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900" />
 
 
