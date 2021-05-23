@@ -52,7 +52,7 @@ SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCo
 
 
 ### 🤝THANKS
-
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/naruto-eating-RneIcLEosVuta/giphy.gif" />
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="900px">
 
 <!--START_SECTION:waka-->
