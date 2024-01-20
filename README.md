@@ -1,4 +1,4 @@
-### Hi👋 I’m NAFIS
+### Hi👋 I’m Sensei07
 
 
 --> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40px">
@@ -41,9 +41,8 @@
 * [![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DGBBcpNdyQLFN0pB60zLAt)
 
 
-### 📍SUPPORT TERUS NAFIS070809
 
-SUPPORT TERUS NAFIS070809 <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="900px">
+ <img src="https://github.com/NAFIS070809/TheDudeThatCode/blob/master/Assets/Designer.gif" width="900px">
 
 ### JANGAN LUPA FOLLOW GITHUB INI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="900" />
 
